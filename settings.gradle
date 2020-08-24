@@ -1,0 +1,4 @@
+include ':gpuv'
+include ':sample'
+include ':app'
+rootProject.name = "iNDOK"

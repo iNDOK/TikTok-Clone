@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="iNDOK/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/973621515/gpuv.iml" filepath="$PROJECT_DIR$/.idea/modules/973621515/gpuv.iml" group="iNDOK/gpuv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1684236718/iNDOK.iml" filepath="$PROJECT_DIR$/.idea/modules/1684236718/iNDOK.iml" group="iNDOK" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-323138261/sample.iml" filepath="$PROJECT_DIR$/.idea/modules/-323138261/sample.iml" group="iNDOK/sample" />
+    </modules>
+  </component>
+</project>

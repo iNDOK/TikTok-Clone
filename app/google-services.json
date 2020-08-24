@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016846765875",
+    "firebase_url": "https://indok-5e2a9.firebaseio.com",
+    "project_id": "indok-5e2a9",
+    "storage_bucket": "indok-5e2a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016846765875:android:6304a24f3293b37377f846",
+        "android_client_info": {
+          "package_name": "com.example.indok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016846765875-8g8icr727qf59196ep1apt95392pfmul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClwZOQvXd-ewOHiUR68KHj5qwIJ-wdHlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016846765875-8g8icr727qf59196ep1apt95392pfmul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
